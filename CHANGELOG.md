@@ -1,3 +1,14 @@
+<a name="3.0.4"></a>
+## [3.0.4](https://github.com/bitpay/cordova-plugin-qrscanner/compare/3.0.1...3.0.4) (2020-01-04)
+
+
+### Bug Fixes
+
+* **iOS:** changed UIApplication.openSettingsURLString to UIApplicationOpenSettingsURLString
+* Android:** null-checks added for mBarcodeView
+
+
+
 <a name="3.0.1"></a>
 ## [3.0.1](https://github.com/bitpay/cordova-plugin-qrscanner/compare/2.6.0...3.0.1) (2019-03-29)
 
